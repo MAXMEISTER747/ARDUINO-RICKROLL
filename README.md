@@ -19,4 +19,4 @@ Opens new tab, pastes link, presses enter
 Works like the browser but opens tab with the CMD key (so it works with mac)
 
 # Windows CMD (Autoplay protection)
-Just like Win CMD but presses space after opening link for if people have autoplay turned off like me
+Just like Win CMD but presses space after opening link for if people have autoplay turned which is default on some browsers (firefox, for example)
