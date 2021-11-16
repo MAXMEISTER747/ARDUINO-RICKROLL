@@ -1,7 +1,7 @@
 # ARDUINO-RICKROLL
 Rickroll people by plugging your arduino into their computer
 
-To use this, simply download the folder you want and put it in your arduino items folder, then open the arduino IDE and open this folder and file. Click upload and unplug the arduino. Then go rickroll some people.
+To use this, simply download and put in your arduino projects folder, then open the arduino IDE and open the folder and file that you want. Click upload and unplug the arduino. Now go rickroll some people.
 
 # Windows CMD
 Uses the Win+R run menu then opens the link
@@ -10,7 +10,7 @@ Uses the Win+R run menu then opens the link
 Opens the search menu and goes to the link
 Can be used for windows if when you type a link in the start menu, it goes to it
 
-# Browser
+# Browser (wlc-browser)
 Works with Linux, Chromebook and Windows
 Requires a browser to be in focus
 Opens new tab, pastes link, presses enter
