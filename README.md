@@ -19,7 +19,7 @@ Opens new tab, pastes link, presses enter
 Works like the browser but opens tab with the CMD key (so it works with mac)
 
 # *New* Mac CMD
-Opens terminal via spotlight and uses the <open> command to open the link in the defauld browser
+Opens terminal via spotlight and uses the open command to open the link in the defauld browser
 
 # Windows CMD (Autoplay protection)
 Just like Win CMD but presses space after opening link for if people have autoplay turned which is default on some browsers (firefox, for example)
