@@ -20,6 +20,8 @@ Works like the browser but opens tab with the CMD key (so it works with mac)
 
 # *New* Mac CMD
 Opens terminal via spotlight and uses the open command to open the link in the defauld browser
+Doesn't work if terminal is already open
+This is a bit of a luck of the draw particually if you have to use an adapter for the newer crapbooks
 
 # Windows CMD (Autoplay protection)
 Just like Win CMD but presses space after opening link for if people have autoplay turned which is default on some browsers (firefox, for example)
