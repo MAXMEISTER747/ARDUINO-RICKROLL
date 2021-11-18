@@ -1,4 +1,4 @@
-# ARDUINO-RICKROLL
+# RICK-ROLLDUINO
 Rickroll people by plugging your arduino into their computer
 
 To use this, simply download and put in your arduino projects folder, then open the arduino IDE and open the folder and file that you want. Click upload and unplug the arduino. Now go rickroll some people.
