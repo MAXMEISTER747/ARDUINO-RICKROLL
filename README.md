@@ -1,7 +1,7 @@
 # RICK-ROLLDUINO
 Rickroll people by plugging your arduino into their computer
 
-To use this, simply download and put in your arduino projects folder, then open the arduino IDE and open the folder and file that you want. Click upload and unplug the arduino. Now go rickroll some people.
+To use this, simply download, open the zip, open the folder withing it and copy the rick-rollduino folder into your arduino projects folder, then open the arduino IDE and open the folder and file that you want. Click upload and unplug the arduino. Now go rickroll some people.
 
 # Windows CMD
 Uses the Win+R run menu then opens the link
